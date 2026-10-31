@@ -1,1 +1,1 @@
-This repository contains Cisco Packet Tracer networking labs.
+This repository contains Cisco Packet Tracer networking lab.
