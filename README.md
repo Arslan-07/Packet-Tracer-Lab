@@ -51,6 +51,9 @@ ping 192.168.1.2
 - Subnet masks
 - Basic network troubleshooting
 - Ping connectivity testing
+- ### Ping Verification Screenshot
+
+![Ping Verification](lab-01-ping-verification.png)
 
 ### Project File
 `packetTracer-Lab-01.pkt`
