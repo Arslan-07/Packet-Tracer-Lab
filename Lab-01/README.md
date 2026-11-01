@@ -1,7 +1,3 @@
-# Cisco Packet Tracer – Networking Labs
-
-This repository contains practical networking labs created using **Cisco Packet Tracer** as part of my CCNA learning journey.
-
 ## Lab 01: Direct PC-to-PC Connectivity
 
 ### Objective
