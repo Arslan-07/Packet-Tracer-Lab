@@ -42,6 +42,12 @@ ping 192.168.1.2
 - Basic network topology
 - Direct PC-to-PC connectivity
 - IPv4 addressing
+- ### PC0 IP Configuration Screenshot
+
+![PC0 IP Configuration](lab-01%20PC0-ip-configuration.png)
+### PC1 IP Configuration Screenshot
+
+![PC1 IP Configuration](lab-01%20PC1-ip-configuration.png)
 - Subnet masks
 - Basic network troubleshooting
 - Ping connectivity testing
