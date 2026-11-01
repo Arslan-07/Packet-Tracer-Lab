@@ -38,6 +38,7 @@ ping 192.168.1.2
 ### Skills Practiced
 - LAN fundamentals
 - Network topology
+- ![Lab 01 Network Topology](lab-01-topology.png)
 - Switch connectivity
 - IPv4 addressing
 - Subnet masks
