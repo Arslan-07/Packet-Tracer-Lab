@@ -13,6 +13,8 @@ This lab demonstrates how to build a basic Local Area Network (LAN) using Cisco 
 ## Network Topology
 **Topology Type:** Star Topology
 
+![Network Topology](lab-02-topology.png)
+
 ### Devices Used
 
 | Device | Quantity |
@@ -53,6 +55,8 @@ This lab demonstrates how to build a basic Local Area Network (LAN) using Cisco 
 6. Tested communication using the Ping command.
 
 ## Connectivity Testing
+
+![Connectivity Testing](lab-02-ping-verification.png)
 
 The following connectivity tests were successful:
 
