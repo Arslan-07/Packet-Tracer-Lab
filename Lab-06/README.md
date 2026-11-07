@@ -164,11 +164,5 @@ ping 192.168.10.11
 - Saving router configuration.
 - Testing connectivity using ICMP ping.
 
-## Lab Status
-
-**Completed Successfully**
-
-*Practical CCNA Networking Labs – Lab 06*
-
-**Author:** Arsalan Younis  
+  
 **GitHub:** [Arslan-07](https://github.com/Arslan-07)
