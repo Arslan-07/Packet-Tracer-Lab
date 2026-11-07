@@ -43,8 +43,8 @@ Two separate LAN networks are connected through two Cisco routers using a Serial
 
 ## 🚪 Default Gateway Configuration
 
-- PC0: 192.168.1.1
-- PC1: 192.168.2.1
+- PC0: `192.168.1.1`
+- PC1: `192.168.2.1`
 
 ## ⚙️ Router Configuration
 
@@ -92,6 +92,8 @@ ip route 192.168.1.0 255.255.255.0 10.0.0.1
 end
 ```
 
+**Note:** Clock rate 64000 was configured on the DCE end of the Serial connection where required.
+
 ## 🛣️ Static Routing Configuration
 
 Static routes were configured on both routers to enable communication between the two remote LAN networks.
@@ -138,7 +140,7 @@ ping 10.0.0.1
 
 ![R2 to R1 Connectivity](R2-to-R1-connectivity.png)
 
-**Result:** Successful communication between both routers.
+**Result:** Successful communication between both routers over the Serial link.
 
 ## 💻 PC IP Configuration
 
@@ -168,7 +170,7 @@ show ip route
 
 ![R2 Routing Table](R2%20routing-table.png)
 
-The routing tables were verified to confirm connected and static routes.
+The routing tables were verified to confirm directly connected networks and configured static routes.
 
 ## ⚙️ Router Configuration Screenshots
 
@@ -230,7 +232,6 @@ ping 192.168.1.2
 Both routers were configured with static routes, and successful communication was verified between the two routers and both end devices.
 
 ---
-
 
 **Author:** Arsalan Younis
 
