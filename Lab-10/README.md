@@ -44,7 +44,7 @@ A number system is a method of representing numbers using a set of digits and ru
 
 ### Notebook Evidence
 
-![Notebook Page 01 - Understanding Number System](screenshots/notebook-page-01.jpg)
+![Notebook Page 01 - Understanding Number System](notebook-page-01.png)
 
 ---
 
@@ -80,7 +80,7 @@ Example:
 
 ### Notebook Evidence
 
-![Notebook Page 02 - Understanding Bits](screenshots/notebook-page-02.jpg)
+![Notebook Page 02 - Understanding Bits](notebook-page-02.png)
 
 ---
 
@@ -124,7 +124,7 @@ Calculation:
 
 ### Notebook Evidence
 
-![Notebook Page 03 - Binary Place Values](screenshots/notebook-page-03.jpg)
+![Notebook Page 03 - Binary Place Values](notebook-page-03.png)
 
 ---
 
@@ -167,7 +167,7 @@ Calculation:
 
 ### Notebook Evidence
 
-![Notebook Page 04 - Maximum Value 255 and Binary Conversion](screenshots/notebook-page-04.jpg)
+![Notebook Page 04 - Maximum Value 255 and Binary Conversion](notebook-page-04.png)
 
 ---
 
@@ -205,7 +205,7 @@ This confirms the decimal and binary representations of the IPv4 address.
 
 ### Notebook Evidence
 
-![Notebook Page 05 - Real IPv4 Address Conversion](screenshots/notebook-page-05.jpg)
+![Notebook Page 05 - Real IPv4 Address Conversion](notebook-page-05.png)
 
 ---
 
@@ -247,10 +247,10 @@ In this lab, I learned:
 
 | File | Description |
 |---|---|
-| notebook-page-01.jpg | Understanding Number System |
-| notebook-page-02.jpg | Understanding Bits |
-| notebook-page-03.jpg | Binary Place Values |
-| notebook-page-04.jpg | Maximum Value 255 and Conversion |
-| notebook-page-05.jpg | Real IPv4 Address Conversion |
+| notebook-page-01.png | Understanding Number System |
+| notebook-page-02.png | Understanding Bits |
+| notebook-page-03.png | Binary Place Values |
+| notebook-page-04.png | Maximum Value 255 and Conversion |
+| notebook-page-05.png | Real IPv4 Address Conversion |
 
 ---
