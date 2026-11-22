@@ -1,4 +1,4 @@
-# CCNA Lab 13 – VLSM Subnetting
+# VLSM Subnetting
 
 ## 1. Lab Overview
 
