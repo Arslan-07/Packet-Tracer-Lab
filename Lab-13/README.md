@@ -1,5 +1,10 @@
-# VLSM Subnetting
+# CCNA Lab 13 – VLSM Subnetting
 
+![Cisco](https://img.shields.io/badge/Cisco-Packet_Tracer-049FD9?logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-VLSM-blue)
+![VLAN](https://img.shields.io/badge/Technology-VLAN-green)
+![Routing](https://img.shields.io/badge/Routing-Inter--VLAN-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 ## 1. Lab Overview
 
 This lab demonstrates **Variable Length Subnet Masking (VLSM)** using Cisco Packet Tracer.
