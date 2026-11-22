@@ -1,6 +1,6 @@
 # CCNA Lab 13 – VLSM Subnetting
 
-## 1. Lab Overvie
+## 1. Lab Overview
 
 This lab demonstrates **Variable Length Subnet Masking (VLSM)** using Cisco Packet Tracer.
 
